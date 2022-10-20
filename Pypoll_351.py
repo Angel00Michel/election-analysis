@@ -84,7 +84,7 @@ with open(file_to_load) as election_data:
 print(candidate_votes) 
 
 # example.
-print(total_votes)
+# print(total_votes)
 
 # Winning Candidate and Winning Count Tracker
 #  winning_candidate = ""
