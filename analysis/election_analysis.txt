@@ -1,7 +1,13 @@
-Hello W0RLDArapahoeDenverJeffersonArapahoe, Denver, JeffersonArapahoe
-Denver
-JeffersonCounties in the Election
-------------------
-Arapahoe
-Denver
-Jefferson
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+--------------------------
+Winner: {winning_candidate}
+Winning Vote Count: {winning_count:,}
+Winning Percentage: {winning_percentage:.1f}%
+--------------------------
